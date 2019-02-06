@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinum.Homini.DevicesMock", "Sinum.Homini.DevicesMock\Sinum.Homini.DevicesMock.csproj", "{8D70B709-EBD4-4D0C-A771-1380F0DD0838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinum.Homini.ThermController", "Sinum.Homini.ThermControl\Sinum.Homini.ThermController.csproj", "{548487E8-D56B-480A-A73B-DA863F7FEFB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinum.Homini.DBRepository", "Sinum.Homini.DBRepository\Sinum.Homini.DBRepository.csproj", "{E5C56772-ADD7-4178-BC42-6E6D053983F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinum.Homini.Web", "Sinum.Homini.Web\Sinum.Homini.Web.csproj", "{A66E13CE-4527-45AD-8DDA-62668C7E9469}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinum.Homini.Web.Tests", "Sinum.Homini.Web.Tests\Sinum.Homini.Web.Tests.csproj", "{D8FC5238-1123-4A6A-9ADC-07386CAE2F31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinum.Homini.Common", "Sinum.Homini.Common\Sinum.Homini.Common.csproj", "{D1315E02-D716-43F7-B190-19E9D1837BC6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{43968634-1AEB-4582-ABEE-3FA902BC5E21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D70B709-EBD4-4D0C-A771-1380F0DD0838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D70B709-EBD4-4D0C-A771-1380F0DD0838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D70B709-EBD4-4D0C-A771-1380F0DD0838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D70B709-EBD4-4D0C-A771-1380F0DD0838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{548487E8-D56B-480A-A73B-DA863F7FEFB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{548487E8-D56B-480A-A73B-DA863F7FEFB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{548487E8-D56B-480A-A73B-DA863F7FEFB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{548487E8-D56B-480A-A73B-DA863F7FEFB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5C56772-ADD7-4178-BC42-6E6D053983F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5C56772-ADD7-4178-BC42-6E6D053983F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5C56772-ADD7-4178-BC42-6E6D053983F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5C56772-ADD7-4178-BC42-6E6D053983F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A66E13CE-4527-45AD-8DDA-62668C7E9469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A66E13CE-4527-45AD-8DDA-62668C7E9469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A66E13CE-4527-45AD-8DDA-62668C7E9469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A66E13CE-4527-45AD-8DDA-62668C7E9469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8FC5238-1123-4A6A-9ADC-07386CAE2F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8FC5238-1123-4A6A-9ADC-07386CAE2F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8FC5238-1123-4A6A-9ADC-07386CAE2F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8FC5238-1123-4A6A-9ADC-07386CAE2F31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1315E02-D716-43F7-B190-19E9D1837BC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1315E02-D716-43F7-B190-19E9D1837BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1315E02-D716-43F7-B190-19E9D1837BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1315E02-D716-43F7-B190-19E9D1837BC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D8FC5238-1123-4A6A-9ADC-07386CAE2F31} = {43968634-1AEB-4582-ABEE-3FA902BC5E21}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA2E5E65-577B-45D2-A027-55B7148841B5}
+	EndGlobalSection
+EndGlobal

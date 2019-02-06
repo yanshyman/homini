@@ -1,0 +1,12 @@
+{
+  "Id": "00000000-0000-0000-0000-000000000000",
+  "Name": "string",
+  "Settings": [
+    {
+      "DayOfWeek": 0,
+      "StartHour": "00:00:00",
+      "EndHour": "00:00:00",
+      "Temperature": 0.0
+    }
+  ]
+}

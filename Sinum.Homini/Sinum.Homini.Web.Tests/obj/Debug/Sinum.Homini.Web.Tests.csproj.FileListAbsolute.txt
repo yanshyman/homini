@@ -1,0 +1,240 @@
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\obj\Debug\Sinum.Homini.Web.Tests.csproj.CoreCompileInputs.cache
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\csc.exe.config
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\csc.rsp
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\csi.exe
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\csi.exe.config
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\csi.rsp
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\System.Console.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\System.Diagnostics.Process.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\System.IO.Compression.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\System.IO.Pipes.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\System.Security.AccessControl.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\System.Security.Claims.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\System.Security.Principal.Windows.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\System.Threading.Thread.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\System.ValueTuple.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\System.Xml.XPath.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\vbc.exe.config
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\vbc.rsp
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\AppData\config.json
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Sinum.Homini.Web.Tests.dll.config
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Sinum.Homini.Web.Tests.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Sinum.Homini.Web.Tests.pdb
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Sinum.Homini.Web.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Owin.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Sinum.Homini.Common.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\EntityFramework.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Sinum.Homini.Web.pdb
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Sinum.Homini.Web.dll.config
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Sinum.Homini.Common.pdb
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Sinum.Homini.Common.dll.config
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\EntityFramework.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\obj\Debug\Sinum.Homini.Web.Tests.csprojResolveAssemblyReference.cache
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\obj\Debug\Sinum.Homini.Web.Tests.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\obj\Debug\Sinum.Homini.Web.Tests.pdb
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\ApplicationInsights.config
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Sinum.Homini.Web.Tests.dll.config
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Sinum.Homini.Web.Tests.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Sinum.Homini.Web.Tests.pdb
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Sinum.Homini.Web.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Http.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Razor.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\WebActivatorEx.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Owin.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Swashbuckle.Core.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Sinum.Homini.Common.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\EntityFramework.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Sinum.Homini.Web.pdb
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Sinum.Homini.Web.dll.config
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Http.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Razor.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Sinum.Homini.Common.pdb
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Sinum.Homini.Common.dll.config
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\EntityFramework.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\obj\Debug\Sinum.Homini.Web.Tests.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\obj\Debug\Sinum.Homini.Web.Tests.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\obj\Debug\Sinum.Homini.Web.Tests.csproj.CopyComplete
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\obj\Debug\Sinum.Homini.Web.Tests.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\obj\Debug\Sinum.Homini.Web.Tests.pdb
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\ApplicationInsights.config
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Sinum.Homini.Web.Tests.dll.config
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Sinum.Homini.Web.Tests.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Sinum.Homini.Web.Tests.pdb
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Sinum.Homini.Web.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Http.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Razor.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\WebActivatorEx.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Owin.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Swashbuckle.Core.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Sinum.Homini.Common.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\EntityFramework.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Sinum.Homini.Web.pdb
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Sinum.Homini.Web.dll.config
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Http.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Razor.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Sinum.Homini.Common.pdb
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Sinum.Homini.Common.dll.config
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\EntityFramework.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\obj\Debug\Sinum.Homini.Web.Tests.csprojAssemblyReference.cache
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\obj\Debug\Sinum.Homini.Web.Tests.csproj.CoreCompileInputs.cache
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\obj\Debug\Sinum.Homini.Web.Tests.csproj.CopyComplete
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\obj\Debug\Sinum.Homini.Web.Tests.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Web.Tests\obj\Debug\Sinum.Homini.Web.Tests.pdb

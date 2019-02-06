@@ -1,0 +1,11 @@
+﻿<div>
+    <form name="form" ng-submit="confirm({task:task})" class="ng-pristine ng-valid form">
+        <input type="text" placeholder="Title" class="edit title" task-focus="task.title" autofocus="" ng-model="task.title">
+        <textarea placeholder="Add description..." class="edit description" ng-model="task.description" cols="40" rows="5"></textarea>
+    </form>
+    <div style="text-align:center;">
+        <button class="ok-button" ng-click="confirm({task:task})">Ok</button>
+        <button class="cancel-button" ng-click="cancel({task:task})">Cancel</button>
+    </div>
+  
+</div>

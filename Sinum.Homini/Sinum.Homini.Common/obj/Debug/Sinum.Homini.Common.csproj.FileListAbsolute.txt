@@ -1,0 +1,29 @@
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Common\bin\Debug\AppData\config.json
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Common\bin\Debug\Sinum.Homini.Common.dll.config
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Common\bin\Debug\Sinum.Homini.Common.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Common\bin\Debug\Sinum.Homini.Common.pdb
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Common\obj\Debug\Sinum.Homini.Common.csproj.CoreCompileInputs.cache
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Common\obj\Debug\Sinum.Homini.Common.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Common\obj\Debug\Sinum.Homini.Common.pdb
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Common\obj\Debug\Sinum.Homini.Common.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Common\bin\Debug\Sinum.Homini.Common.dll.config
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Common\bin\Debug\Sinum.Homini.Common.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Common\bin\Debug\Sinum.Homini.Common.pdb
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Common\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Common\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Common\obj\Debug\Sinum.Homini.Common.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Common\obj\Debug\Sinum.Homini.Common.csproj.CopyComplete
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Common\obj\Debug\Sinum.Homini.Common.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.Common\obj\Debug\Sinum.Homini.Common.pdb
+C:\Projects\Sinum.Homini\Sinum.Homini.Common\bin\Debug\Sinum.Homini.Common.dll.config
+C:\Projects\Sinum.Homini\Sinum.Homini.Common\bin\Debug\Sinum.Homini.Common.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Common\bin\Debug\Sinum.Homini.Common.pdb
+C:\Projects\Sinum.Homini\Sinum.Homini.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.Common\obj\Debug\Sinum.Homini.Common.csprojAssemblyReference.cache
+C:\Projects\Sinum.Homini\Sinum.Homini.Common\obj\Debug\Sinum.Homini.Common.csproj.CoreCompileInputs.cache
+C:\Projects\Sinum.Homini\Sinum.Homini.Common\obj\Debug\Sinum.Homini.Common.csproj.CopyComplete
+C:\Projects\Sinum.Homini\Sinum.Homini.Common\obj\Debug\Sinum.Homini.Common.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.Common\obj\Debug\Sinum.Homini.Common.pdb

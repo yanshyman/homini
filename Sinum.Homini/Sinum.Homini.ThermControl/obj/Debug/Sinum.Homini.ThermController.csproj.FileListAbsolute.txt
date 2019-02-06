@@ -1,0 +1,19 @@
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.ThermControl\bin\Debug\Sinum.Homini.ThermControl.exe.config
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.ThermControl\bin\Debug\Sinum.Homini.ThermControl.exe
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.ThermControl\bin\Debug\Sinum.Homini.ThermControl.pdb
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.ThermControl\obj\Debug\Sinum.Homini.ThermController.csproj.CoreCompileInputs.cache
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.ThermControl\obj\Debug\Sinum.Homini.ThermControl.exe
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.ThermControl\obj\Debug\Sinum.Homini.ThermControl.pdb
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.ThermControl\obj\Debug\Sinum.Homini.ThermController.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.ThermControl\bin\Debug\Sinum.Homini.ThermControl.exe.config
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.ThermControl\bin\Debug\Sinum.Homini.ThermControl.exe
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.ThermControl\bin\Debug\Sinum.Homini.ThermControl.pdb
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.ThermControl\obj\Debug\Sinum.Homini.ThermController.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.ThermControl\obj\Debug\Sinum.Homini.ThermControl.exe
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.ThermControl\obj\Debug\Sinum.Homini.ThermControl.pdb
+C:\Projects\Sinum.Homini\Sinum.Homini.ThermControl\bin\Debug\Sinum.Homini.ThermControl.exe.config
+C:\Projects\Sinum.Homini\Sinum.Homini.ThermControl\bin\Debug\Sinum.Homini.ThermControl.exe
+C:\Projects\Sinum.Homini\Sinum.Homini.ThermControl\bin\Debug\Sinum.Homini.ThermControl.pdb
+C:\Projects\Sinum.Homini\Sinum.Homini.ThermControl\obj\Debug\Sinum.Homini.ThermController.csproj.CoreCompileInputs.cache
+C:\Projects\Sinum.Homini\Sinum.Homini.ThermControl\obj\Debug\Sinum.Homini.ThermControl.exe
+C:\Projects\Sinum.Homini\Sinum.Homini.ThermControl\obj\Debug\Sinum.Homini.ThermControl.pdb

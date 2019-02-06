@@ -1,0 +1,83 @@
+﻿<div class="" ng-controller="statusController as controller">
+    <div class="row">
+        <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 mb-4">
+            <div class="card">
+                <div class="card-block grid">
+                    <div style="width: 30%; text-align: center" class="grid-cell mt-4">
+                        <i class="fa fa-thermometer-half fa-3x" aria-hidden="true"></i>
+                    </div>
+                    <div style="width: 70%" class="grid-cell">
+
+                        <h4 class="card-title font-weight-normal text-success">{{currentTemperature}} &#176C</h4>
+                        <p class="card-text">Pokój Wiktora</p>
+                        <i class="fa fa-calendar-check-o grid-cell card-text text-gray" aria-hidden="true">{{lastUpdate}}</i>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 mb-4">
+            <div class="card">
+                <div class="card-block grid">
+                    <div style="width: 30%; text-align: center" class="grid-cell mt-4">
+                        <span class="fa-stack fa-2x ">
+                            <i class="fa fa-square-o fa-stack-2x"></i>
+                            <i class="fa fa-power-off fa-stack-1x text-lightgray"></i>
+                        </span>
+                    </div>
+                    <div style="width: 70%" class="grid-cell">
+                        <h4 class="card-title font-weight-normal text-lightgray" ng-click="controller.Switch()">{{onOff}}</h4>
+                        <p class="card-text">Piec</p>
+                        <i class="fa fa-calendar-check-o grid-cell card-text text-gray" aria-hidden="true">{{lastUpdate}}</i>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 mb-4">
+            <div class="card">
+                <div class="card-block grid">
+                    <div style="width: 30%; text-align: center" class="grid-cell mt-4">
+                        <object type="image/svg+xml" width="50px" height="50px" data="../../Content/svg/wheather.svg"></object>
+                    </div>
+                    <div style="width: 70%" class="grid-cell">
+                        <h4 class="card-title font-weight-normal text-warning">{{temperatureOutside}} &#176C</h4>
+                        <p class="card-text ">Gdynia</p>
+                        <i class="fa fa-sun-o grid-cell card-text text-gray ml-2" aria-hidden="true">{{sunrise}} </i>
+                        <i class="fa fa-moon-o grid-cell card-text text-gray ml-2" aria-hidden="true">{{sunset}}</i>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 mb-4">
+            <div class="card">
+                <div class="card-block grid">
+                    <div style="width: 30%; text-align: center" class="grid-cell mt-4">
+                        <i class="fa fa-bath fa-3x" aria-hidden="true"></i>
+
+                    </div>
+                    <div style="width: 70%" class="grid-cell">
+
+                        <i class="fa fa-thermometer-half  text-success"></i><span class="card-title font-weight-normal text-success h4">{{currentBathTemperature}} &#176C </span>
+                        <i class="fa fa-tint text-info ml-2"></i><span class="card-title font-weight-normal text-info h4">{{currentBathHumidity}}%</span>
+                        <p class="card-text mt-2">Łazienka</p>
+                        <i class="fa fa-calendar-check-o grid-cell card-text text-gray " aria-hidden="true">{{lastBathUpdate}}</i>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <div class="row">
+        <div class="col-lg-6  mb-4">
+            <div class="card">
+                <div class="card-block">
+                    <h5 class="card-title mb-4">Temperatura</h5>
+                    <iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/346301/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15"></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

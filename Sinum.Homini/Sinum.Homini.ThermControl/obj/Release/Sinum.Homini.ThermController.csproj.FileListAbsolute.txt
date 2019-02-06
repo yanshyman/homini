@@ -1,0 +1,6 @@
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.ThermControl\bin\Release\Sinum.Homini.ThermControl.exe.config
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.ThermControl\bin\Release\Sinum.Homini.ThermControl.exe
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.ThermControl\bin\Release\Sinum.Homini.ThermControl.pdb
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.ThermControl\obj\Release\Sinum.Homini.ThermController.csproj.CoreCompileInputs.cache
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.ThermControl\obj\Release\Sinum.Homini.ThermControl.exe
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.ThermControl\obj\Release\Sinum.Homini.ThermControl.pdb

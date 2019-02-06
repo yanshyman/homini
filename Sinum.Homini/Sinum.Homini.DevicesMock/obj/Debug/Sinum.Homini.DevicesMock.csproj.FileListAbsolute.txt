@@ -1,0 +1,291 @@
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\ApplicationInsights.config
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\csc.exe
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\csc.exe.config
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\csc.rsp
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\csi.exe
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\csi.exe.config
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\csi.rsp
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.AppContext.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Console.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.IO.Compression.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.IO.Pipes.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Security.Claims.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Threading.Thread.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.ValueTuple.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\vbc.exe
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\vbc.exe.config
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\vbc.rsp
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\VBCSCompiler.exe
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\App_Data\sonoffSwitch.json
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Sinum.Homini.DevicesMock.dll.config
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Sinum.Homini.DevicesMock.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Sinum.Homini.DevicesMock.pdb
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Antlr3.Runtime.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.AI.Web.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Newtonsoft.Json.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Net.Http.Formatting.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Helpers.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Http.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Http.WebHost.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Mvc.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Optimization.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Razor.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.WebPages.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.WebPages.Razor.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\WebGrease.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Newtonsoft.Json.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Net.Http.Formatting.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Helpers.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Http.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Http.WebHost.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Mvc.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Optimization.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Razor.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.WebPages.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.WebPages.Razor.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Antlr3.Runtime.pdb
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.AI.Web.xml
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\obj\Debug\Sinum.Homini.DevicesMock.csproj.CoreCompileInputs.cache
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\obj\Debug\Sinum.Homini.DevicesMock.dll
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\obj\Debug\Sinum.Homini.DevicesMock.pdb
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\obj\Debug\Sinum.Homini.DevicesMock.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\ApplicationInsights.config
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\csc.exe
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\csc.exe.config
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\csc.rsp
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\csi.exe
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\csi.exe.config
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\csi.rsp
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.AppContext.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Console.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Diagnostics.Process.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.IO.Compression.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.IO.FileSystem.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.IO.Pipes.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Security.AccessControl.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Security.Claims.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Threading.Thread.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.ValueTuple.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Xml.XPath.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\vbc.exe
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\vbc.exe.config
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\vbc.rsp
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\VBCSCompiler.exe
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\App_Data\sonoffSwitch.json
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Sinum.Homini.DevicesMock.dll.config
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Sinum.Homini.DevicesMock.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Sinum.Homini.DevicesMock.pdb
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Antlr3.Runtime.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.AI.DependencyCollector.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.AI.Web.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.AI.WindowsServer.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.ApplicationInsights.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Net.Http.Formatting.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Helpers.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Http.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Http.WebHost.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Mvc.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Optimization.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Razor.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.WebPages.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.WebPages.Razor.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\WebGrease.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Newtonsoft.Json.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Net.Http.Formatting.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Helpers.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Http.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Http.WebHost.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Mvc.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Optimization.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Razor.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.WebPages.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.WebPages.Razor.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Antlr3.Runtime.pdb
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.ApplicationInsights.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.AI.DependencyCollector.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.AI.WindowsServer.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.AI.Web.xml
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\obj\Debug\Sinum.Homini.DevicesMock.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\obj\Debug\Sinum.Homini.DevicesMock.csproj.CopyComplete
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\obj\Debug\Sinum.Homini.DevicesMock.dll
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\obj\Debug\Sinum.Homini.DevicesMock.pdb
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\ApplicationInsights.config
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\csc.exe
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\csc.exe.config
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\csc.rsp
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\csi.exe
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\csi.exe.config
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\csi.rsp
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.AppContext.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Console.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Diagnostics.Process.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.IO.Compression.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.IO.FileSystem.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.IO.Pipes.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Security.AccessControl.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Security.Claims.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Threading.Thread.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.ValueTuple.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Xml.XPath.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\vbc.exe
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\vbc.exe.config
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\vbc.rsp
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\VBCSCompiler.exe
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\App_Data\sonoffSwitch.json
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Sinum.Homini.DevicesMock.dll.config
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Sinum.Homini.DevicesMock.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Sinum.Homini.DevicesMock.pdb
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Antlr3.Runtime.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.AI.DependencyCollector.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.AI.Web.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.AI.WindowsServer.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.ApplicationInsights.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Newtonsoft.Json.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Net.Http.Formatting.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Helpers.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Http.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Http.WebHost.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Mvc.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Optimization.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Razor.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.WebPages.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.WebPages.Razor.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\WebGrease.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Newtonsoft.Json.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Net.Http.Formatting.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Helpers.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Http.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Http.WebHost.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Mvc.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Optimization.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.Razor.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.WebPages.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\System.Web.WebPages.Razor.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Antlr3.Runtime.pdb
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.ApplicationInsights.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.AI.DependencyCollector.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.AI.WindowsServer.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\bin\Microsoft.AI.Web.xml
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\obj\Debug\Sinum.Homini.DevicesMock.csproj.CoreCompileInputs.cache
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\obj\Debug\Sinum.Homini.DevicesMock.csproj.CopyComplete
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\obj\Debug\Sinum.Homini.DevicesMock.dll
+C:\Projects\Sinum.Homini\Sinum.Homini.DevicesMock\obj\Debug\Sinum.Homini.DevicesMock.pdb

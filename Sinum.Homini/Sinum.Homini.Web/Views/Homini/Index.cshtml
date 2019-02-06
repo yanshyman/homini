@@ -1,0 +1,69 @@
+﻿  @model string
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script src="~/App/homini.js"></script>
+  <div class=" container-scroller">
+        <!--Navbar-->
+        <nav class="navbar bg-primary-gradient col-lg-12 col-12 p-0 fixed-top navbar-inverse d-flex flex-row">
+            <h3 class="mb-3 ml-4 mt-3 text-white">Homini</h3>
+            <div class="navbar-menu-wrapper d-flex align-items-center">
+                <button class="navbar-toggler navbar-toggler hidden-md-down align-self-center mr-3" type="button" data-toggle="minimize">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <ul class="navbar-nav ml-lg-auto d-flex align-items-center flex-row"></ul>
+                <button class="navbar-toggler navbar-toggler-right hidden-lg-up align-self-center" type="button" data-toggle="offcanvas">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+            </div>
+        </nav>
+        <!--End navbar-->
+        <div class="container-fluid">
+            <div class="row row-offcanvas row-offcanvas-right">
+                <nav class="bg-white sidebar sidebar-fixed sidebar-offcanvas" id="sidebar">
+                    <ul class="nav">
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">
+
+                                <i class="fa fa-bar-chart" aria-hidden="true"></i>
+                                <span class="menu-title">Statystyki</span>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="pages/widgets.html">
+                                <i class="fa fa-exclamation-triangle" aria-hidden="true"></i>
+                                <span class="menu-title">Powiadomienia</span>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="pages/forms.html">
+
+                                <i class="fa fa-cog" aria-hidden="true"></i>
+                                <span class="menu-title">Ustawienia</span>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="pages/buttons.html">
+
+                                <i class="fa fa-user-o" aria-hidden="true"></i>
+                                <span class="menu-title">Wyloguj</span>
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+                <div class="content-wrapper">
+                    <div ng-view>
+
+                    </div>
+                </div>
+                <footer class="footer">
+                    <div class="container-fluid clearfix">
+                        <span class="float-right">
+                            <a href="#">Sinum</a> &copy; info@sinum.pl 2017
+                        </span>
+                    </div>
+                </footer>
+            </div>
+        </div>
+    </div>

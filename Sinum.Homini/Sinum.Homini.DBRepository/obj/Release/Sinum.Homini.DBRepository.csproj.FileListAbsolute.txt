@@ -1,0 +1,6 @@
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DBRepository\bin\Release\Sinum.Homini.DBRepository.exe.config
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DBRepository\bin\Release\Sinum.Homini.DBRepository.exe
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DBRepository\bin\Release\Sinum.Homini.DBRepository.pdb
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DBRepository\obj\Release\Sinum.Homini.DBRepository.csproj.CoreCompileInputs.cache
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DBRepository\obj\Release\Sinum.Homini.DBRepository.exe
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DBRepository\obj\Release\Sinum.Homini.DBRepository.pdb

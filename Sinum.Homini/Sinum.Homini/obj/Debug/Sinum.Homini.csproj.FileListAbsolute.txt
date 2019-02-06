@@ -1,0 +1,2 @@
+c:\users\jasz\documents\visual studio 2017\Projects\Sinum.Homini\Sinum.Homini\obj\Debug\Sinum.Homini.csprojResolveAssemblyReference.cache
+c:\users\jasz\documents\visual studio 2017\Projects\Sinum.Homini\Sinum.Homini\obj\Debug\Sinum.Homini.csproj.CoreCompileInputs.cache

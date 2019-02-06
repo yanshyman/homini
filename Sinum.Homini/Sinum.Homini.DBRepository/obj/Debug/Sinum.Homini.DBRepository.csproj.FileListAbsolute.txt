@@ -1,0 +1,18 @@
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DBRepository\bin\Debug\Sinum.Homini.DBRepository.exe.config
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DBRepository\bin\Debug\Sinum.Homini.DBRepository.exe
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DBRepository\bin\Debug\Sinum.Homini.DBRepository.pdb
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DBRepository\obj\Debug\Sinum.Homini.DBRepository.csproj.CoreCompileInputs.cache
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DBRepository\obj\Debug\Sinum.Homini.DBRepository.exe
+C:\Users\jasz\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DBRepository\obj\Debug\Sinum.Homini.DBRepository.pdb
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DBRepository\bin\Debug\Sinum.Homini.DBRepository.exe.config
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DBRepository\bin\Debug\Sinum.Homini.DBRepository.exe
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DBRepository\bin\Debug\Sinum.Homini.DBRepository.pdb
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DBRepository\obj\Debug\Sinum.Homini.DBRepository.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DBRepository\obj\Debug\Sinum.Homini.DBRepository.exe
+D:\Documents\Visual Studio 2017\Projects\Sinum.Homini\Sinum.Homini.DBRepository\obj\Debug\Sinum.Homini.DBRepository.pdb
+C:\Projects\Sinum.Homini\Sinum.Homini.DBRepository\bin\Debug\Sinum.Homini.DBRepository.exe.config
+C:\Projects\Sinum.Homini\Sinum.Homini.DBRepository\bin\Debug\Sinum.Homini.DBRepository.exe
+C:\Projects\Sinum.Homini\Sinum.Homini.DBRepository\bin\Debug\Sinum.Homini.DBRepository.pdb
+C:\Projects\Sinum.Homini\Sinum.Homini.DBRepository\obj\Debug\Sinum.Homini.DBRepository.csproj.CoreCompileInputs.cache
+C:\Projects\Sinum.Homini\Sinum.Homini.DBRepository\obj\Debug\Sinum.Homini.DBRepository.exe
+C:\Projects\Sinum.Homini\Sinum.Homini.DBRepository\obj\Debug\Sinum.Homini.DBRepository.pdb
